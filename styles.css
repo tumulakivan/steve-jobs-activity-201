@@ -15,6 +15,10 @@ body {
     padding-top: 2.5em;
 }
 
+.head {
+    margin-bottom: -0.5em;
+}
+
 .image-wrapper {
     display: flex;
     background-color: #ffffff;
@@ -30,7 +34,7 @@ body {
     display: block;
     margin-left: 3em;
     margin-top: 3.75em;
-    margin-bottom:3.75em;
+    margin-bottom: 3.75em;
     transition: font-size 0.75s;
 }
 
